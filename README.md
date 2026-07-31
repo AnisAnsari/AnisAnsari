@@ -16,6 +16,159 @@ Senior Frontend Developer • React.js • UI/UX Manager • AI-Powered Develope
 
 </p>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Senior+Frontend+Developer;React.js+Developer;UI%2FUX+Manager;Building+Modern+Digital+Products;Exploring+AI+Powered+Development;Open+to+Global+Opportunities" />
+
+</p>
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=anisansari&style=for-the-badge)
+
+</p>
+
+## 🚀 Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### UI / UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![AdobeXD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd)
+![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+
+
+# 🤖 AI & Emerging Technologies
+
+I'm actively exploring AI-powered software development and modern GenAI workflows.
+
+### Hands-on Experience
+
+✅ Running Local LLMs using Ollama & LM Studio
+
+✅ Experimenting with Hugging Face Open Source Models
+
+✅ AI-assisted coding using OpenCode
+
+✅ Working with DeepSeek, Mimo v2.5 and other open-source coding models
+
+✅ Building AI Image & Video workflows using ComfyUI
+
+✅ Exploring Prompt Engineering & AI Agents
+
+✅ Learning MCP, RAG & modern AI development workflows
+
+# 👨‍💻 About Me
+
+Senior Frontend Developer and UI/UX Manager with 12+ years of experience building enterprise applications, SaaS platforms, admin dashboards and modern web applications.
+
+I enjoy combining UI/UX Design, Frontend Engineering and AI-powered development to build scalable digital products.
+
+💼 12+ Years Experience
+
+🚀 100+ Projects Delivered
+
+👨‍💼 7+ Years Leadership
+
+⚛️ React.js Specialist
+
+🎨 Product Design Expert
+
+🤖 AI Powered Development Enthusiast
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=anisansari&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=anisansari&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anisansari&layout=compact&theme=tokyonight)
+
+# 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=anisansari&theme=tokyonight&no-frame=true&row=1&column=6)
+
+# 🚀 Featured Projects
+
+⭐ ANIS OS Portfolio
+
+⭐ AI Dashboard
+
+⭐ Email Studio
+
+⭐ CRM System
+
+⭐ React Component Library
+
+⭐ AI Resume Builder
+
+⭐ AI Chat Application
+
+⭐ Real Estate Platform
+
+# 📚 Currently Learning
+
+✅ Next.js
+
+✅ TypeScript
+
+✅ Django REST Framework
+
+✅ AI Agents
+
+✅ Local LLM Deployment
+
+✅ Hugging Face
+
+✅ Ollama
+
+✅ LM Studio
+
+✅ ComfyUI
+
+✅ MCP
+
+✅ RAG
+
+# 🌐 Connect
+
+💼 LinkedIn
+
+📧 Email
+
+🌍 Portfolio
+
+📺 YouTube
+
+📷 Instagram
+
+<p align="center">
+
+⭐ If you like my work, consider giving a star to my repositories.
+
+</p>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
