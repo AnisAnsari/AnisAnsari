@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm Anis Ansari</h1>
+
+<h3 align="center">
+Senior Frontend Developer • React.js • UI/UX Manager • AI-Powered Developer
+</h3>
+
+<p align="center">
+
+🚀 Building Modern Web Applications
+
+⚛️ React.js Specialist
+
+🤖 Exploring AI & Local LLMs
+
+🌍 Open to Global Opportunities
+
+</p>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
